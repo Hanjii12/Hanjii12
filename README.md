@@ -1,5 +1,7 @@
 Hi, I'm Akos 👋
+
 ⚡ Electrical engineer · 🎧 Audio addict
+
 My heart is in microelectronics: the tiny circuits that make big things work.
 
 By day, I work in electrical engineering practice: power distribution, lightning protection, lighting design, and BIM-based modeling. That's where I learned to deliver precise documentation, coordinate with other disciplines, and meet deadlines.

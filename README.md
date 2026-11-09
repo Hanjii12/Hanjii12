@@ -18,8 +18,6 @@ I love music, and I love the hardware that brings it to life. In my free time I 
 * 🎚️ Circuit & PCB design: from schematic to finished board
 * 🎶 Listening: Techno, progressive house, but i'm open to all genres.
 
-If you're into audio electronics too, let's talk!
-
 ---
 
 ### What I'm into
@@ -31,8 +29,3 @@ If you're into audio electronics too, let's talk!
 ### Currently
 
 * Looking for: opportunities and collaborations in microelectronics and electronic systems design
-
-### Fun facts
-
-* I run on coffee
-* I like anime
